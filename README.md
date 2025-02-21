@@ -48,7 +48,7 @@ The dataset consists of 6 columns, namely:
 
 - text: the text of the tweet (Lyx is cool)
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Twitter-Sentiment-Analysis-NLP-Using-Python-Machine-Learning-/blob/9f76e16feb090d780c2717ff43c197870ba3188e/Data%20description.png)
 
 
 ## 4. Data Preprocessing
