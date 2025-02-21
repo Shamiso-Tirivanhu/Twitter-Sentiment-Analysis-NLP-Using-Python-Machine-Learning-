@@ -87,7 +87,7 @@ The model's performance was evaluated using the accuracy score:
 Based on the abovementioned accuracy score, it can be denoted that the Logistic Regression model performed well. The accuracy score on testing data is closer to the one obtained on the training data. Essentially, our model can predict tweets with decent measure of alacrity. 
 
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Twitter-Sentiment-Analysis-NLP-Using-Python-Machine-Learning-/blob/2a18359bb79fa3af501d967620d5c0a2068e209c/Accuracy%20metrics.png)
 
 
 ## 7. Predictive Model 
