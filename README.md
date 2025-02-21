@@ -104,7 +104,7 @@ The dataset was evenly split into training and testing sets using train_test_spl
 - A predictive system was also build to test if the model is working.
 
 
-![image_alt]((https://github.com/Shamiso-Tirivanhu/Twitter-Sentiment-Analysis-NLP-Using-Python-Machine-Learning-/blob/ecf02d5562f37239e3e7d59138881515214b9593/Predictive%20model.png)
+![image_alt](https://github.com/Shamiso-Tirivanhu/Twitter-Sentiment-Analysis-NLP-Using-Python-Machine-Learning-/blob/ecf02d5562f37239e3e7d59138881515214b9593/Predictive%20model.png)
 
 
 ## 9. Insights
