@@ -94,7 +94,7 @@ Based on the abovementioned accuracy score, it can be denoted that the Logistic 
 
 The dataset was evenly split into training and testing sets using train_test_split(), ensuring a balanced distribution of sentiments across both subsets.
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Twitter-Sentiment-Analysis-NLP-Using-Python-Machine-Learning-/blob/ecf02d5562f37239e3e7d59138881515214b9593/Predictive%20model.png)
 
 
 ## 8. Deployment
